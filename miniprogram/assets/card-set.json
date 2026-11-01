@@ -1,0 +1,156 @@
+{
+  "version": "approved-24-v1",
+  "themes": [
+    "小宝日常",
+    "猫咪美食",
+    "温馨猫窝"
+  ],
+  "source": "docs/最终确认素材-24张.jpg",
+  "description": "用户确认的三系列24张图案；运行时使用对应的较清晰独立裁切图，不使用v3预览或原始照片。",
+  "cards": [
+    {
+      "id": 0,
+      "name": "歪头小宝",
+      "image": "/assets/cards/00.jpg",
+      "sha256": "fb3793d46bc85b810163b8c59ed58017ea20e4c28b5c87ebc57ad48b3d8e9e7b"
+    },
+    {
+      "id": 1,
+      "name": "睡觉小宝",
+      "image": "/assets/cards/01.jpg",
+      "sha256": "3adee610ae15df4a28ef9a9bdc0972ce6f19a8a936c8ed25b60b259f931cf554"
+    },
+    {
+      "id": 2,
+      "name": "伸懒腰小宝",
+      "image": "/assets/cards/02.jpg",
+      "sha256": "29cbd0dbfa1eeccb6cc52b82c7f90237dbfe160b6cf08e9125fea7f049356b11"
+    },
+    {
+      "id": 3,
+      "name": "舔爪小宝",
+      "image": "/assets/cards/03.jpg",
+      "sha256": "893ff9a59a701e6636d3969c94b641891f6b7f8bff2e9c06849ac61a69da6ed5"
+    },
+    {
+      "id": 4,
+      "name": "翻肚小宝",
+      "image": "/assets/cards/04.jpg",
+      "sha256": "e407a8aa0de6c9c902b6061b18d3144ef4c0dfe748e508d657fdabd22c2c0f8e"
+    },
+    {
+      "id": 5,
+      "name": "探头小宝",
+      "image": "/assets/cards/05.jpg",
+      "sha256": "3fc8df6f6257abb54cb0f79d7555ca39a5af8be8f67599d75162f7c6cd3ba7fe"
+    },
+    {
+      "id": 6,
+      "name": "踩奶小宝",
+      "image": "/assets/cards/06.jpg",
+      "sha256": "7bd8c1b51471c70cdaeac9893bd3b0a781145b7f68cd1da4629dbfce476d5002"
+    },
+    {
+      "id": 7,
+      "name": "打哈欠小宝",
+      "image": "/assets/cards/07.jpg",
+      "sha256": "15ca91a9add5e998ee4d67815e8e363c0f1f8d3745f15c0a7a86f6467ac54c0d"
+    },
+    {
+      "id": 8,
+      "name": "小鱼干",
+      "image": "/assets/cards/08.jpg",
+      "sha256": "fee31198c1b04aac186714c7355d4cf65474950dc1b3bb3820b4ca6ecef1ad76"
+    },
+    {
+      "id": 9,
+      "name": "猫罐头",
+      "image": "/assets/cards/09.jpg",
+      "sha256": "692444f1bc6fb12192e62f198512323d52b8479a107333ec40fc9a66ae3edb55"
+    },
+    {
+      "id": 10,
+      "name": "猫条",
+      "image": "/assets/cards/10.jpg",
+      "sha256": "3f073d254da9cff52e47758acefed9a9bb3c1fcb76c8e0cd96921cc91e0a8753"
+    },
+    {
+      "id": 11,
+      "name": "猫粮碗",
+      "image": "/assets/cards/11.jpg",
+      "sha256": "59dfffb644873ef2a7183c22e8fd0d80a1894bbdef351911917a3e79b2c71e56"
+    },
+    {
+      "id": 12,
+      "name": "冻干",
+      "image": "/assets/cards/12.jpg",
+      "sha256": "4459c1539deb6494537f3a2b30f805d5e83689660e4e19bc1276c5c2f3ebbe8f"
+    },
+    {
+      "id": 13,
+      "name": "鸡胸肉",
+      "image": "/assets/cards/13.jpg",
+      "sha256": "95d4bc3e1704fa0a00feb515d9ff55bd4e1c4015e4258a724c7e4a02c24547db"
+    },
+    {
+      "id": 14,
+      "name": "饮水机",
+      "image": "/assets/cards/14.jpg",
+      "sha256": "df444150763350231be884d436dee5df91fa7017f6ddc874f74f2c94037f9ed4"
+    },
+    {
+      "id": 15,
+      "name": "猫草",
+      "image": "/assets/cards/15.jpg",
+      "sha256": "705ed12dfe19b374befcc4d4dd4da971fc68972d916e01f600cbddf0b78c5e80"
+    },
+    {
+      "id": 16,
+      "name": "猫窝",
+      "image": "/assets/cards/24.jpg",
+      "sha256": "a346f428e2347ccf22e0474b031291f6aef82473e94edad96206dc26891169ab"
+    },
+    {
+      "id": 17,
+      "name": "猫爬架",
+      "image": "/assets/cards/25.jpg",
+      "sha256": "dc634b7908413f6293725cd2c5917f53868afad60febe779965eb162671575eb"
+    },
+    {
+      "id": 18,
+      "name": "猫抓板",
+      "image": "/assets/cards/26.jpg",
+      "sha256": "d47ece003e0070f5945264c5154dd8da3962cae96c68f245dcc38caac4bbaa8d"
+    },
+    {
+      "id": 19,
+      "name": "猫吊床",
+      "image": "/assets/cards/27.jpg",
+      "sha256": "16c72ed5a875d4476b7673a33b1060373c31e86cc4bf76dcc63b789288455939"
+    },
+    {
+      "id": 20,
+      "name": "小毯子",
+      "image": "/assets/cards/28.jpg",
+      "sha256": "9ecc001c9599f03b496554a952a6fc3bcd99aefdc249c8518663f1a693823f37"
+    },
+    {
+      "id": 21,
+      "name": "猫背包",
+      "image": "/assets/cards/29.jpg",
+      "sha256": "0256384fe9e89322d60a221bca24ef104107d698b9724cdb40d3ca74592425fa"
+    },
+    {
+      "id": 22,
+      "name": "猫门",
+      "image": "/assets/cards/30.jpg",
+      "sha256": "bce30043ffaaa2a2a7fa109ac68046541b04f8df504cfa0cd80998b44299c12a"
+    },
+    {
+      "id": 23,
+      "name": "窗边软垫",
+      "image": "/assets/cards/31.jpg",
+      "sha256": "d4ab01f7f12fc339421d7d2e7c0d4ce47d8e9456bf95c969123108e4ea24c1a4"
+    }
+  ]
+}

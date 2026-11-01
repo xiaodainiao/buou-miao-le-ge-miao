@@ -1,0 +1,11 @@
+project.private.config.json
+node_modules/
+.DS_Store
+
+# Local credentials and temporary files
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.log

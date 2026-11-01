@@ -1,0 +1,14 @@
+{
+  "description": "小宝布偶猫：猫咪主题叠层三消",
+  "miniprogramRoot": "miniprogram/",
+  "projectname": "xiaobao-ragdoll",
+  "appid": "touristappid",
+  "compileType": "miniprogram",
+  "setting": {
+    "es6": true,
+    "minified": true,
+    "postcss": true,
+    "urlCheck": true
+  },
+  "libVersion": "3.7.0"
+}

@@ -1,0 +1,40 @@
+{
+  "description": "布偶瞄了个喵：三关叠层消除小游戏",
+  "miniprogramRoot": "game/",
+  "srcMiniprogramRoot": "game/",
+  "projectname": "布偶瞄了个喵",
+  "appid": "wxf790ae3ae8fcb811",
+  "compileType": "game",
+  "setting": {
+    "es6": true,
+    "enhance": true,
+    "minified": true,
+    "urlCheck": true,
+    "postcss": false,
+    "compileWorklet": false,
+    "uglifyFileName": false,
+    "uploadWithSourceMap": true,
+    "packNpmManually": false,
+    "packNpmRelationList": [],
+    "minifyWXSS": true,
+    "minifyWXML": true,
+    "localPlugins": false,
+    "disableUseStrict": false,
+    "useCompilerPlugins": false,
+    "condition": false,
+    "babelSetting": {
+      "ignore": [],
+      "disablePlugins": [],
+      "outputPath": ""
+    }
+  },
+  "libVersion": "3.7.0",
+  "simulatorType": "wechat",
+  "packOptions": {
+    "ignore": [],
+    "include": []
+  },
+  "simulatorPluginLibVersion": {},
+  "isGameTourist": false,
+  "editorSetting": {}
+}

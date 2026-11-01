@@ -1,0 +1,14 @@
+{
+  "name": "xiaobao-ragdoll",
+  "version": "1.0.0",
+  "private": true,
+  "description": "布偶瞄了个喵：微信小游戏三关叠层消除",
+  "scripts": {
+    "test": "node --test tests/engine.test.js tests/minigame.test.js",
+    "preview": "node tools/preview-server.js",
+    "sync:game": "node tools/sync-minigame.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
