@@ -2,17 +2,42 @@
 
 以布偶猫「小宝」为主角的微信三消小游戏，采用 24 张猫咪主题卡牌，包含教学、极限挑战和千张挑战三个关卡。
 
-**上线状态：已在微信上架。** 当前仓库版本为 **1.01**；本次迭代更新项目介绍和本地启动说明，游戏玩法与 1.00 相同。仓库版本不等同于微信平台发布版本。
+**上线状态：已在微信上架。** 当前仓库版本为 **1.02**；本次迭代补齐四个页面的游戏截图，游戏玩法与 1.00 相同。仓库版本不等同于微信平台发布版本。
 
 ## 微信体验与游戏界面
 
 在微信中搜索小游戏 **「布偶瞄了个喵」** 进入游戏。项目工作区名称为「布偶喵了个喵」，线上界面显示名称以微信为准。
 
-下面是已上架游戏的关卡选择界面，由项目作者提供：
+### 游戏界面
 
-<p align="center">
-  <img src="docs/images/wechat-release-levels.jpg" alt="微信已上架游戏的关卡选择界面：9张教学、216张极限挑战、1000张千张挑战" width="360">
-</p>
+以下四张截图由项目作者提供，依次展示首页、关卡选择、实际对局和卡牌图鉴。点击图片可查看原图。
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <strong>首页 · 陪小宝玩一局</strong><br><br>
+      <a href="docs/images/wechat-home.jpg"><img src="docs/images/wechat-home.jpg" alt="游戏首页：把烦恼消掉，把可爱留下；开始游戏、继续牌局和导航入口" width="260"></a><br>
+      小宝欢迎页，提供开始游戏、继续牌局和玩法导航。
+    </td>
+    <td align="center" width="50%">
+      <strong>关卡选择 · 小宝的关卡小路</strong><br><br>
+      <a href="docs/images/wechat-release-levels.jpg"><img src="docs/images/wechat-release-levels.jpg" alt="关卡选择：9张教学、216张极限挑战、1000张千张挑战" width="260"></a><br>
+      从轻松教学到千张挑战，逐关解锁。
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <strong>实际对局 · 小宝的极限挑战</strong><br><br>
+      <a href="docs/images/wechat-gameplay.jpg"><img src="docs/images/wechat-gameplay.jpg" alt="第二关实际对局：层叠卡牌、7格收集槽，以及撤回、洗牌和寄存工具" width="260"></a><br>
+      点击未被遮挡的牌，凑齐三张消除，合理使用道具。
+    </td>
+    <td align="center" width="50%">
+      <strong>卡牌图鉴 · 收藏小宝的日常</strong><br><br>
+      <a href="docs/images/wechat-album.jpg"><img src="docs/images/wechat-album.jpg" alt="卡牌图鉴：已解锁24张，按小宝日常、猫咪美食和温馨猫窝分类查看" width="260"></a><br>
+      24 张主题卡牌，分为小宝日常、猫咪美食、温馨猫窝。
+    </td>
+  </tr>
+</table>
 
 | 关卡 | 名称 | 内容 |
 | --- | --- | --- |
@@ -121,5 +146,6 @@ npm test
 
 - [`v1.00`](https://github.com/xiaodainiao/buou-miao-le-ge-miao/tree/v1.00)：初始代码基线。
 - [`v1.01`](https://github.com/xiaodainiao/buou-miao-le-ge-miao/tree/v1.01)：加入上架截图、微信已上架说明和本地启动指南，游戏功能未改动。
+- [`v1.02`](https://github.com/xiaodainiao/buou-miao-le-ge-miao/tree/v1.02)：完整展示首页、关卡选择、实际对局和卡牌图鉴四个页面，游戏功能未改动。
 
 仓库地址使用拼音 `buou-miao-le-ge-miao`；GitHub 仓库名称仅允许 ASCII 字母、数字、点、连字符和下划线，中文项目名展示在本 README 和仓库简介中。
