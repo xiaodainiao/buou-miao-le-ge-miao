@@ -1,6 +1,6 @@
 {
   "name": "xiaobao-ragdoll",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": true,
   "description": "布偶瞄了个喵：微信小游戏三关叠层消除",
   "scripts": {
